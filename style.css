@@ -23,7 +23,7 @@
     text-align: center;
     width: 100%;
     font-size: 32px;
-    color: var(--preto);
+    color: var(--botao-inativo);
 }
 
 .titulo-principal span {
@@ -50,4 +50,16 @@
 .botao:first-child
 {
     border-radius: 40px 40px 0 0;
+    border-left: 4px solid var(--cor-borda);
+}
+ @media screen and (min-width: 768) 
+ {
+    .botaes
+    {
+        display: flex;
+    }
+.botao:first-child
+ {
+    border-radius: 40px 0 0 0;
+    border-right: 4px solid var(--cor-borda);
 }
