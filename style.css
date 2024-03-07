@@ -23,7 +23,7 @@
     text-align: center;
     width: 100%;
     font-size: 32px;
-    color: var(--botao-inativo);
+    color: var(--preto);
 }
 
 .titulo-principal span {
@@ -63,3 +63,13 @@
     border-radius: 40px 0 0 0;
     border-right: 4px solid var(--cor-borda);
 }
+.botao:first-child
+{
+    border-radius: 0 40px 0 0;
+    border-right: 4px solid var(--cor-borda);
+}
+ }
+ body
+ {
+    
+ }
