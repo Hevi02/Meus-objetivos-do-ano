@@ -87,11 +87,11 @@
     border-right: 4px solid var(--cor-borda);
     border-left: 4px solid var(--cor-borda);
  }
- .abas-conteudo.ativo
+ .aba-conteudo.ativo
  {
 display: block;
  }
- .abas-conteudo
+ .aba-conteudo
  {
     display: none;
  }
