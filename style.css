@@ -6,7 +6,7 @@
     --botao-ativo: #0000FF;
     --botao-inativo: black;
     --texto-fundo: #1E90FF;
-    --cor-borda: #000000;
+    --cor-borda: white;
 }
 
 .conteudo-principal {
