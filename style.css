@@ -69,9 +69,8 @@
     border-right: 4px solid var(--cor-borda);
 }
  }
- body
- {
-    background-color: var(--cor-de-fundo);
+ body{
+    background-color: green;
  }
  .botao.ativo
  {
