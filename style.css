@@ -4,7 +4,7 @@
     --preto:#000000;
     --branco:#ffffff;
     --botao-ativo: #0000FF;
-    --botao-inativo: #6495ED;
+    --botao-inativo: white;
     --texto-fundo: #1E90FF;
     --cor-borda: #000000;
 }
